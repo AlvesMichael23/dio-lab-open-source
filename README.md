@@ -87,6 +87,12 @@ Aprender o básico sobre contribuição no GitHub.
 8. Crie um commit e adicione a mensagem indicando a adição do seu perfil `git commit -m"feat: add SEU_USERNAME profile"`;
 9. Envie as alterações para o seu repositório remoto `git push origin feat/community/SEU_USERNAME`; 
 10. Crie um **Pull Request**.
+11. A principal ferramenta que você usa para utilizar determinados arquivos em determinados estados é o git status
+12. "Ex: $ git status 
+13. on branch master
+14. your branch is up-to-date with 'origin/master'.
+15. nothing to commit, working tree clean"
+16. Isso nos mostra que existe um diretório de trabalho limpo.
 
 ### Instructions (EN/US)
 1. **Fork** this repository;
